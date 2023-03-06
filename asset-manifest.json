@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Walli/static/css/main.002fc0bd.css",
+    "main.js": "/Walli/static/js/main.f0967fc4.js",
+    "index.html": "/Walli/index.html",
+    "main.002fc0bd.css.map": "/Walli/static/css/main.002fc0bd.css.map",
+    "main.f0967fc4.js.map": "/Walli/static/js/main.f0967fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002fc0bd.css",
+    "static/js/main.f0967fc4.js"
+  ]
+}
